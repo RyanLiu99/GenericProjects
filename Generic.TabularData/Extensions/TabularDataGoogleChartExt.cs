@@ -8,7 +8,7 @@ namespace Generic.TabularData.Extensions
     {
 
         /// <summary>
-        /// only take 2 columns, first columns is title, 2nd is data
+        /// Generate string can be used as Goolge Chart Data
         /// </summary>
         /// <param name="data"></param>
         /// <returns></returns>
